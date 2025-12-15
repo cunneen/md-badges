@@ -10,6 +10,8 @@ The table below is automatically created. It contains the badges [from README.md
 | ![ARKit][ARKit] | `![ARKit][ARKit]` | `[ARKit]: https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white "ARKit"`|
 | ![AWS Lambda][AWS Lambda] | `![AWS Lambda][AWS Lambda]` | `[AWS Lambda]: https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white "AWS Lambda"`|
 | ![AWS][AWS] | `![AWS][AWS]` | `[AWS]: https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white "AWS"`|
+| ![Academia][Academia] | `![Academia][Academia]` | `[Academia]: https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white "Academia"`|
+| ![Affinity Studio][Affinity Studio] | `![Affinity Studio][Affinity Studio]` | `[Affinity Studio]: https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black "Affinity Studio"`|
 | ![Alacritty][Alacritty] | `![Alacritty][Alacritty]` | `[Alacritty]: https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff "Alacritty"`|
 | ![Alibaba Cloud][Alibaba Cloud] | `![Alibaba Cloud][Alibaba Cloud]` | `[Alibaba Cloud]: https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white "Alibaba Cloud"`|
 | ![Alipay][Alipay] | `![Alipay][Alipay]` | `[Alipay]: https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff "Alipay"`|
@@ -22,10 +24,12 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Android][Android] | `![Android][Android]` | `[Android]: https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white "Android"`|
 | ![Angular][Angular] | `![Angular][Angular]` | `[Angular]: https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white "Angular"`|
 | ![AniList][AniList] | `![AniList][AniList]` | `[AniList]: https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff "AniList"`|
+| ![Apache Airflow][Apache Airflow] | `![Apache Airflow][Apache Airflow]` | `[Apache Airflow]: https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff "Apache Airflow"`|
 | ![Apache Spark][Apache Spark] | `![Apache Spark][Apache Spark]` | `[Apache Spark]: https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff "Apache Spark"`|
 | ![Apollo GraphQL][Apollo GraphQL] | `![Apollo GraphQL][Apollo GraphQL]` | `[Apollo GraphQL]: https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff "Apollo GraphQL"`|
 | ![App Store][App Store] | `![App Store][App Store]` | `[App Store]: https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white "App Store"`|
 | ![AppVeyor][AppVeyor] | `![AppVeyor][AppVeyor]` | `[AppVeyor]: https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff "AppVeyor"`|
+| ![Appium][Appium] | `![Appium][Appium]` | `[Appium]: https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white "Appium"`|
 | ![Apple Music][Apple Music] | `![Apple Music][Apple Music]` | `[Apple Music]: https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white "Apple Music"`|
 | ![Apple Pay][Apple Pay] | `![Apple Pay][Apple Pay]` | `[Apple Pay]: https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff "Apple Pay"`|
 | ![Apple Podcasts][Apple Podcasts] | `![Apple Podcasts][Apple Podcasts]` | `[Apple Podcasts]: https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white "Apple Podcasts"`|
@@ -39,6 +43,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![AssemblyScript][AssemblyScript] | `![AssemblyScript][AssemblyScript]` | `[AssemblyScript]: https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff "AssemblyScript"`|
 | ![Astro][Astro] | `![Astro][Astro]` | `[Astro]: https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff "Astro"`|
 | ![Audacity][Audacity] | `![Audacity][Audacity]` | `[Audacity]: https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white "Audacity"`|
+| ![Auth.js][Auth.js] | `![Auth.js][Auth.js]` | `[Auth.js]: https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=fff "Auth.js"`|
 | ![Azure DevOps][Azure DevOps] | `![Azure DevOps][Azure DevOps]` | `[Azure DevOps]: https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff "Azure DevOps"`|
 | ![Azure Functions][Azure Functions] | `![Azure Functions][Azure Functions]` | `[Azure Functions]: https://custom-icon-badges.demolab.com/badge/Azure%20Functions-0078D7?logo=azure-functions&logoColor=fff "Azure Functions"`|
 | ![Babel][Babel] | `![Babel][Babel]` | `[Babel]: https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000 "Babel"`|
@@ -48,6 +53,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Bash][Bash] | `![Bash][Bash]` | `[Bash]: https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff "Bash"`|
 | ![Battle.net][Battle.net] | `![Battle.net][Battle.net]` | `[Battle.net]: https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white "Battle.net"`|
 | ![BeReal][BeReal] | `![BeReal][BeReal]` | `[BeReal]: https://img.shields.io/badge/BeReal-000?logo=bereal&logoColor=fff "BeReal"`|
+| ![Beeper][Beeper] | `![Beeper][Beeper]` | `[Beeper]: https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff "Beeper"`|
 | ![Behance][Behance] | `![Behance][Behance]` | `[Behance]: https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white "Behance"`|
 | ![Bilibili][Bilibili] | `![Bilibili][Bilibili]` | `[Bilibili]: https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff "Bilibili"`|
 | ![Bitbucket Pipelines][Bitbucket Pipelines] | `![Bitbucket Pipelines][Bitbucket Pipelines]` | `[Bitbucket Pipelines]: https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white "Bitbucket Pipelines"`|
@@ -62,6 +68,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Bootstrap][Bootstrap] | `![Bootstrap][Bootstrap]` | `[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff "Bootstrap"`|
 | ![Box][Box] | `![Box][Box]` | `[Box]: https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff "Box"`|
 | ![Brave][Brave] | `![Brave][Brave]` | `[Brave]: https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white "Brave"`|
+| ![Bruno][Bruno] | `![Bruno][Bruno]` | `[Bruno]: https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black "Bruno"`|
 | ![Bun][Bun] | `![Bun][Bun]` | `[Bun]: https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff "Bun"`|
 | ![Buy Me A Coffee][Buy Me A Coffee] | `![Buy Me A Coffee][Buy Me A Coffee]` | `[Buy Me A Coffee]: https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee"`|
 | ![C#][C#] | `![C#][C#]` | `[C#]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white "C#"`|
@@ -72,10 +79,12 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Canva][Canva] | `![Canva][Canva]` | `[Canva]: https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white "Canva"`|
 | ![Cardano][Cardano] | `![Cardano][Cardano]` | `[Cardano]: https://img.shields.io/badge/Cardano-0E4D92?logo=cardano&logoColor=white "Cardano"`|
 | ![Cassandra][Cassandra] | `![Cassandra][Cassandra]` | `[Cassandra]: https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white "Cassandra"`|
+| ![CentOS][CentOS] | `![CentOS][CentOS]` | `[CentOS]: https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white "CentOS"`|
 | ![Chainlink][Chainlink] | `![Chainlink][Chainlink]` | `[Chainlink]: https://img.shields.io/badge/Chainlink-2A5ADA?logo=chainlink&logoColor=white "Chainlink"`|
 | ![Chart.js][Chart.js] | `![Chart.js][Chart.js]` | `[Chart.js]: https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff "Chart.js"`|
 | ![ChatGPT][ChatGPT] | `![ChatGPT][ChatGPT]` | `[ChatGPT]: https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white "ChatGPT"`|
 | ![Chocolatey][Chocolatey] | `![Chocolatey][Chocolatey]` | `[Chocolatey]: https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff "Chocolatey"`|
+| ![Chrome Web Store][Chrome Web Store] | `![Chrome Web Store][Chrome Web Store]` | `[Chrome Web Store]: https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white "Chrome Web Store"`|
 | ![CircleCI][CircleCI] | `![CircleCI][CircleCI]` | `[CircleCI]: https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff "CircleCI"`|
 | ![Claude][Claude] | `![Claude][Claude]` | `[Claude]: https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff "Claude"`|
 | ![Clojure][Clojure] | `![Clojure][Clojure]` | `[Clojure]: https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff "Clojure"`|
@@ -151,7 +160,8 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Figma][Figma] | `![Figma][Figma]` | `[Figma]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white "Figma"`|
 | ![Firebase Studio][Firebase Studio] | `![Firebase Studio][Firebase Studio]` | `[Firebase Studio]: https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff "Firebase Studio"`|
 | ![Firebase][Firebase] | `![Firebase][Firebase]` | `[Firebase]: https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white "Firebase"`|
-| ![Firefox][Firefox] | `![Firefox][Firefox]` | `[Firefox]: https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white "Firefox"`|
+| ![Firefox Add-Ons][Firefox Add-Ons] | `![Firefox Add-Ons][Firefox Add-Ons]` | `[Firefox Add-Ons]: https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white "Firefox Add-Ons"`|
+| ![Firefox][Firefox] | `![Firefox][Firefox]` | `[Firefox]: https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white "Firefox"`|
 | ![Fiverr][Fiverr] | `![Fiverr][Fiverr]` | `[Fiverr]: https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff "Fiverr"`|
 | ![Flask][Flask] | `![Flask][Flask]` | `[Flask]: https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff "Flask"`|
 | ![Flathub][Flathub] | `![Flathub][Flathub]` | `[Flathub]: https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff "Flathub"`|
@@ -168,11 +178,13 @@ The table below is automatically created. It contains the badges [from README.md
 | ![GNU IceCat][GNU IceCat] | `![GNU IceCat][GNU IceCat]` | `[GNU IceCat]: https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff "GNU IceCat"`|
 | ![GNU][GNU] | `![GNU][GNU]` | `[GNU]: https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white "GNU"`|
 | ![GOG.com][GOG.com] | `![GOG.com][GOG.com]` | `[GOG.com]: https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff "GOG.com"`|
+| ![GTK][GTK] | `![GTK][GTK]` | `[GTK]: https://img.shields.io/badge/GTK-73A0D0?logo=GTK&logoColor=fff "GTK"`|
 | ![GameMaker][GameMaker] | `![GameMaker][GameMaker]` | `[GameMaker]: https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff "GameMaker"`|
 | ![Gatsby][Gatsby] | `![Gatsby][Gatsby]` | `[Gatsby]: https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white "Gatsby"`|
 | ![GeeksForGeeks][GeeksForGeeks] | `![GeeksForGeeks][GeeksForGeeks]` | `[GeeksForGeeks]: https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white "GeeksForGeeks"`|
 | ![Gentoo][Gentoo] | `![Gentoo][Gentoo]` | `[Gentoo]: https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff "Gentoo"`|
 | ![Ghost][Ghost] | `![Ghost][Ghost]` | `[Ghost]: https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow "Ghost"`|
+| ![Ghostty][Ghostty] | `![Ghostty][Ghostty]` | `[Ghostty]: https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term "Ghostty"`|
 | ![Gimp][Gimp] | `![Gimp][Gimp]` | `[Gimp]: https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white "Gimp"`|
 | ![GitBook][GitBook] | `![GitBook][GitBook]` | `[GitBook]: https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff "GitBook"`|
 | ![GitHub Actions][GitHub Actions] | `![GitHub Actions][GitHub Actions]` | `[GitHub Actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white "GitHub Actions"`|
@@ -201,8 +213,12 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Google Gemini][Google Gemini] | `![Google Gemini][Google Gemini]` | `[Google Gemini]: https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff "Google Gemini"`|
 | ![Google Pay][Google Pay] | `![Google Pay][Google Pay]` | `[Google Pay]: https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff "Google Pay"`|
 | ![Google Play Store][Google Play Store] | `![Google Play Store][Google Play Store]` | `[Google Play Store]: https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white "Google Play Store"`|
+| ![Google Scholar][Google Scholar] | `![Google Scholar][Google Scholar]` | `[Google Scholar]: https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white "Google Scholar"`|
 | ![Google][Google] | `![Google][Google]` | `[Google]: https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white "Google"`|
+| ![Gradio][Gradio] | `![Gradio][Gradio]` | `[Gradio]: https://img.shields.io/badge/Gradio-F97316?logo=Gradio&logoColor=white "Gradio"`|
+| ![Grafana][Grafana] | `![Grafana][Grafana]` | `[Grafana]: https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white "Grafana"`|
 | ![GraphQL][GraphQL] | `![GraphQL][GraphQL]` | `[GraphQL]: https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff "GraphQL"`|
+| ![GrapheneOS][GrapheneOS] | `![GrapheneOS][GrapheneOS]` | `[GrapheneOS]: https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white "GrapheneOS"`|
 | ![Gravatar][Gravatar] | `![Gravatar][Gravatar]` | `[Gravatar]: https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff "Gravatar"`|
 | ![Gridsome][Gridsome] | `![Gridsome][Gridsome]` | `[Gridsome]: https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=fff "Gridsome"`|
 | ![Guilded][Guilded] | `![Guilded][Guilded]` | `[Guilded]: https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000 "Guilded"`|
@@ -224,6 +240,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Humble Bundle][Humble Bundle] | `![Humble Bundle][Humble Bundle]` | `[Humble Bundle]: https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white "Humble Bundle"`|
 | ![Hyper][Hyper] | `![Hyper][Hyper]` | `[Hyper]: https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff "Hyper"`|
 | ![IMDb][IMDb] | `![IMDb][IMDb]` | `[IMDb]: https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000 "IMDb"`|
+| ![Iced][Iced] | `![Iced][Iced]` | `[Iced]: https://img.shields.io/badge/Iced-1A50FF?logo=Iced&logoColor=fff "Iced"`|
 | ![Indeed][Indeed] | `![Indeed][Indeed]` | `[Indeed]: https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff "Indeed"`|
 | ![InfluxDB][InfluxDB] | `![InfluxDB][InfluxDB]` | `[InfluxDB]: https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff "InfluxDB"`|
 | ![Inkscape][Inkscape] | `![Inkscape][Inkscape]` | `[Inkscape]: https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white "Inkscape"`|
@@ -234,6 +251,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Itch.io][Itch.io] | `![Itch.io][Itch.io]` | `[Itch.io]: https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white "Itch.io"`|
 | ![JSON][JSON] | `![JSON][JSON]` | `[JSON]: https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff "JSON"`|
 | ![JSR][JSR] | `![JSR][JSR]` | `[JSR]: https://img.shields.io/badge/JSR-F7DF1E?logo=jsr&logoColor=000 "JSR"`|
+| ![JUnit5][JUnit5] | `![JUnit5][JUnit5]` | `[JUnit5]: https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff "JUnit5"`|
 | ![Jasmine][Jasmine] | `![Jasmine][Jasmine]` | `[Jasmine]: https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff "Jasmine"`|
 | ![JavaScript][JavaScript] | `![JavaScript][JavaScript]` | `[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000 "JavaScript"`|
 | ![Java][Java] | `![Java][Java]` | `[Java]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white "Java"`|
@@ -241,6 +259,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Jenkins][Jenkins] | `![Jenkins][Jenkins]` | `[Jenkins]: https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white "Jenkins"`|
 | ![Jest][Jest] | `![Jest][Jest]` | `[Jest]: https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff "Jest"`|
 | ![Jira][Jira] | `![Jira][Jira]` | `[Jira]: https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff "Jira"`|
+| ![Jupyter][Jupyter] | `![Jupyter][Jupyter]` | `[Jupyter]: https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter "Jupyter"`|
 | ![Just Eat][Just Eat] | `![Just Eat][Just Eat]` | `[Just Eat]: https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff "Just Eat"`|
 | ![KDE Plasma][KDE Plasma] | `![KDE Plasma][KDE Plasma]` | `[KDE Plasma]: https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff "KDE Plasma"`|
 | ![Kaggle][Kaggle] | `![Kaggle][Kaggle]` | `[Kaggle]: https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff "Kaggle"`|
@@ -249,18 +268,20 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Khan Academy][Khan Academy] | `![Khan Academy][Khan Academy]` | `[Khan Academy]: https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff "Khan Academy"`|
 | ![Kick][Kick] | `![Kick][Kick]` | `[Kick]: https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff "Kick"`|
 | ![Klarna][Klarna] | `![Klarna][Klarna]` | `[Klarna]: https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000 "Klarna"`|
-| ![Ko-Fi][Ko-Fi] | `![Ko-Fi][Ko-Fi]` | `[Ko-Fi]: https://img.shields.io/badge/Ko--fi-F16061?&logo=ko-fi&logoColor=white "Ko-Fi"`|
+| ![Ko-fi][Ko-fi] | `![Ko-fi][Ko-fi]` | `[Ko-fi]: https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white "Ko-fi"`|
 | ![Kong][Kong] | `![Kong][Kong]` | `[Kong]: https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white "Kong"`|
 | ![Kotlin][Kotlin] | `![Kotlin][Kotlin]` | `[Kotlin]: https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white "Kotlin"`|
 | ![Krita][Krita] | `![Krita][Krita]` | `[Krita]: https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B "Krita"`|
 | ![Kubernetes][Kubernetes] | `![Kubernetes][Kubernetes]` | `[Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff "Kubernetes"`|
 | ![LINE][LINE] | `![LINE][LINE]` | `[LINE]: https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff "LINE"`|
+| ![LaTeX][LaTeX] | `![LaTeX][LaTeX]` | `[LaTeX]: https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff "LaTeX"`|
 | ![LangChain][LangChain] | `![LangChain][LangChain]` | `[LangChain]: https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white "LangChain"`|
 | ![Laravel][Laravel] | `![Laravel][Laravel]` | `[Laravel]: https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white "Laravel"`|
 | ![LastFM][LastFM] | `![LastFM][LastFM]` | `[LastFM]: https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white "LastFM"`|
 | ![LeetCode][LeetCode] | `![LeetCode][LeetCode]` | `[LeetCode]: https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06 "LeetCode"`|
 | ![Less][Less] | `![Less][Less]` | `[Less]: https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff "Less"`|
 | ![Liberapay][Liberapay] | `![Liberapay][Liberapay]` | `[Liberapay]: https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black "Liberapay"`|
+| ![LineageOS][LineageOS] | `![LineageOS][LineageOS]` | `[LineageOS]: https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff "LineageOS"`|
 | ![Linear][Linear] | `![Linear][Linear]` | `[Linear]: https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff "Linear"`|
 | ![LinkedIn Learning][LinkedIn Learning] | `![LinkedIn Learning][LinkedIn Learning]` | `[LinkedIn Learning]: https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff "LinkedIn Learning"`|
 | ![LinkedIn][LinkedIn] | `![LinkedIn][LinkedIn]` | `[LinkedIn]: https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff "LinkedIn"`|
@@ -271,6 +292,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Lua][Lua] | `![Lua][Lua]` | `[Lua]: https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white "Lua"`|
 | ![MDN Web Docs][MDN Web Docs] | `![MDN Web Docs][MDN Web Docs]` | `[MDN Web Docs]: https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff "MDN Web Docs"`|
 | ![MDX][MDX] | `![MDX][MDX]` | `[MDX]: https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff "MDX"`|
+| ![MLflow][MLflow] | `![MLflow][MLflow]` | `[MLflow]: https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black "MLflow"`|
 | ![MX Linux][MX Linux] | `![MX Linux][MX Linux]` | `[MX Linux]: https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff "MX Linux"`|
 | ![Manjaro][Manjaro] | `![Manjaro][Manjaro]` | `[Manjaro]: https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff "Manjaro"`|
 | ![MariaDB][MariaDB] | `![MariaDB][MariaDB]` | `[MariaDB]: https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white "MariaDB"`|
@@ -290,10 +312,10 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Microsoft Azure][Microsoft Azure] | `![Microsoft Azure][Microsoft Azure]` | `[Microsoft Azure]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white "Microsoft Azure"`|
 | ![Microsoft Edge][Microsoft Edge] | `![Microsoft Edge][Microsoft Edge]` | `[Microsoft Edge]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white "Microsoft Edge"`|
 | ![Microsoft SQL Server][Microsoft SQL Server] | `![Microsoft SQL Server][Microsoft SQL Server]` | `[Microsoft SQL Server]: https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white "Microsoft SQL Server"`|
+| ![MinIO][MinIO] | `![MinIO][MinIO]` | `[MinIO]: https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff "MinIO"`|
 | ![Miro][Miro] | `![Miro][Miro]` | `[Miro]: https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff "Miro"`|
 | ![Mistral AI][Mistral AI] | `![Mistral AI][Mistral AI]` | `[Mistral AI]: https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff "Mistral AI"`|
-| ![MkDocs][MkDocs] | `![MkDocs][MkDocs]` | `[MkDocs]: https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff "MkDocs"`|
-| ![MkDocs_alt][MkDocs_alt] | `![MkDocs_alt][MkDocs_alt]` | `[MkDocs_alt]: https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff "MkDocs_alt"`|
+| ![MkDocs][MkDocs] | `![MkDocs][MkDocs]` | `[MkDocs]: https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff "MkDocs"`|
 | ![Mocha][Mocha] | `![Mocha][Mocha]` | `[Mocha]: https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff "Mocha"`|
 | ![Monero][Monero] | `![Monero][Monero]` | `[Monero]: https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff "Monero"`|
 | ![MongoDB][MongoDB] | `![MongoDB][MongoDB]` | `[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white "MongoDB"`|
@@ -307,29 +329,32 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Netflix][Netflix] | `![Netflix][Netflix]` | `[Netflix]: https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white "Netflix"`|
 | ![Netlify][Netlify] | `![Netlify][Netlify]` | `[Netlify]: https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7 "Netlify"`|
 | ![Next.js][Next.js] | `![Next.js][Next.js]` | `[Next.js]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white "Next.js"`|
-| ![Nim][Nim] | `![Nim][Nim]` | `[Nim]: https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white "Nim"`|
+| ![Nim][Nim] | `![Nim][Nim]` | `[Nim]: https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=000 "Nim"`|
 | ![Nintendo eShop][Nintendo eShop] | `![Nintendo eShop][Nintendo eShop]` | `[Nintendo eShop]: https://custom-icon-badges.demolab.com/badge/Nintendo%20eShop-FF7D00?logo=nintendo&logoColor=fff "Nintendo eShop"`|
 | ![NixOS][NixOS] | `![NixOS][NixOS]` | `[NixOS]: https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff "NixOS"`|
 | ![Nix][Nix] | `![Nix][Nix]` | `[Nix]: https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white "Nix"`|
 | ![Nix_alt][Nix_alt] | `![Nix_alt][Nix_alt]` | `[Nix_alt]: https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff "Nix_alt"`|
 | ![Nobara Linux][Nobara Linux] | `![Nobara Linux][Nobara Linux]` | `[Nobara Linux]: https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff "Nobara Linux"`|
-| ![NodeJS][NodeJS] | `![NodeJS][NodeJS]` | `[NodeJS]: https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white "NodeJS"`|
+| ![Node.js][Node.js] | `![Node.js][Node.js]` | `[Node.js]: https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white "Node.js"`|
 | ![Notepad++][Notepad++] | `![Notepad++][Notepad++]` | `[Notepad++]: https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black "Notepad++"`|
 | ![Notion][Notion] | `![Notion][Notion]` | `[Notion]: https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff "Notion"`|
 | ![NuGet][NuGet] | `![NuGet][NuGet]` | `[NuGet]: https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff "NuGet"`|
 | ![NumPy][NumPy] | `![NumPy][NumPy]` | `[NumPy]: https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff "NumPy"`|
 | ![Nuxt][Nuxt] | `![Nuxt][Nuxt]` | `[Nuxt]: https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82 "Nuxt"`|
 | ![OCaml][OCaml] | `![OCaml][OCaml]` | `[OCaml]: https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff "OCaml"`|
+| ![ONNX][ONNX] | `![ONNX][ONNX]` | `[ONNX]: https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white "ONNX"`|
 | ![Objective-C][Objective-C] | `![Objective-C][Objective-C]` | `[Objective-C]: https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white "Objective-C"`|
 | ![Obsidian][Obsidian] | `![Obsidian][Obsidian]` | `[Obsidian]: https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white "Obsidian"`|
 | ![Octopus Deploy][Octopus Deploy] | `![Octopus Deploy][Octopus Deploy]` | `[Octopus Deploy]: https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white "Octopus Deploy"`|
 | ![Oculus][Oculus] | `![Oculus][Oculus]` | `[Oculus]: https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white "Oculus"`|
-| ![Odin][Odin] | `![Odin][Odin]` | `[Odin]: https://custom-icon-badges.demolab.com/badge/Odin-1E5184?logo=odinlang "Odin"`|
+| ![Odin][Odin] | `![Odin][Odin]` | `[Odin]: https://img.shields.io/badge/Odin-3882D2?logo=odin&logoColor=fff "Odin"`|
 | ![Odoo][Odoo] | `![Odoo][Odoo]` | `[Odoo]: https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff "Odoo"`|
 | ![Ollama][Ollama] | `![Ollama][Ollama]` | `[Ollama]: https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000 "Ollama"`|
 | ![Open Collective][Open Collective] | `![Open Collective][Open Collective]` | `[Open Collective]: https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=white "Open Collective"`|
 | ![OpenAPI][OpenAPI] | `![OpenAPI][OpenAPI]` | `[OpenAPI]: https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white "OpenAPI"`|
+| ![OpenBSD][OpenBSD] | `![OpenBSD][OpenBSD]` | `[OpenBSD]: https://img.shields.io/badge/OpenBSD-F2CA30?logo=openbsd&logoColor=000 "OpenBSD"`|
 | ![OpenCritic][OpenCritic] | `![OpenCritic][OpenCritic]` | `[OpenCritic]: https://img.shields.io/badge/OpenCritic-FC3E04?logo=opencritic&logoColor=fff "OpenCritic"`|
+| ![OpenGL][OpenGL] | `![OpenGL][OpenGL]` | `[OpenGL]: https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff "OpenGL"`|
 | ![Opera GX][Opera GX] | `![Opera GX][Opera GX]` | `[Opera GX]: https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff "Opera GX"`|
 | ![Opera][Opera] | `![Opera][Opera]` | `[Opera]: https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white "Opera"`|
 | ![Oracle Cloud][Oracle Cloud] | `![Oracle Cloud][Oracle Cloud]` | `[Oracle Cloud]: https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white "Oracle Cloud"`|
@@ -338,7 +363,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![PHP][PHP] | `![PHP][PHP]` | `[PHP]: https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white "PHP"`|
 | ![Pandas][Pandas] | `![Pandas][Pandas]` | `[Pandas]: https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff "Pandas"`|
 | ![Pandora][Pandora] | `![Pandora][Pandora]` | `[Pandora]: https://img.shields.io/badge/Pandora-3668FF?logo=pandora "Pandora"`|
-| ![Patreon][Patreon] | `![Patreon][Patreon]` | `[Patreon]: https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white "Patreon"`|
+| ![Patreon][Patreon] | `![Patreon][Patreon]` | `[Patreon]: https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white "Patreon"`|
 | ![PayPal][PayPal] | `![PayPal][PayPal]` | `[PayPal]: https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff "PayPal"`|
 | ![Payoneer][Payoneer] | `![Payoneer][Payoneer]` | `[Payoneer]: https://img.shields.io/badge/Payoneer-FF4800?logo=payoneer&logoColor=fff "Payoneer"`|
 | ![Pelican][Pelican] | `![Pelican][Pelican]` | `[Pelican]: https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff "Pelican"`|
@@ -357,18 +382,25 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Postgres][Postgres] | `![Postgres][Postgres]` | `[Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white "Postgres"`|
 | ![Postman][Postman] | `![Postman][Postman]` | `[Postman]: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white "Postman"`|
 | ![Power BI][Power BI] | `![Power BI][Power BI]` | `[Power BI]: https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff "Power BI"`|
+| ![PowerShell][PowerShell] | `![PowerShell][PowerShell]` | `[PowerShell]: https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff "PowerShell"`|
 | ![Preact][Preact] | `![Preact][Preact]` | `[Preact]: https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff "Preact"`|
 | ![Prime Video][Prime Video] | `![Prime Video][Prime Video]` | `[Prime Video]: https://custom-icon-badges.demolab.com/badge/Prime%20Video-00A8E1?logo=prime-video&logoColor=white "Prime Video"`|
 | ![Prisma][Prisma] | `![Prisma][Prisma]` | `[Prisma]: https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white "Prisma"`|
 | ![Product Hunt][Product Hunt] | `![Product Hunt][Product Hunt]` | `[Product Hunt]: https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff "Product Hunt"`|
+| ![Prometheus][Prometheus] | `![Prometheus][Prometheus]` | `[Prometheus]: https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white "Prometheus"`|
 | ![Proton Drive][Proton Drive] | `![Proton Drive][Proton Drive]` | `[Proton Drive]: https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white "Proton Drive"`|
 | ![Proton Mail][Proton Mail] | `![Proton Mail][Proton Mail]` | `[Proton Mail]: https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff "Proton Mail"`|
 | ![PyCharm][PyCharm] | `![PyCharm][PyCharm]` | `[PyCharm]: https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff "PyCharm"`|
 | ![PyPI][PyPI] | `![PyPI][PyPI]` | `[PyPI]: https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff "PyPI"`|
 | ![PyTorch][PyTorch] | `![PyTorch][PyTorch]` | `[PyTorch]: https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white "PyTorch"`|
+| ![Pydantic][Pydantic] | `![Pydantic][Pydantic]` | `[Pydantic]: https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white "Pydantic"`|
+| ![Pytest][Pytest] | `![Pytest][Pytest]` | `[Pytest]: https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000 "Pytest"`|
 | ![Python IDLE][Python IDLE] | `![Python IDLE][Python IDLE]` | `[Python IDLE]: https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff "Python IDLE"`|
 | ![Python][Python] | `![Python][Python]` | `[Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff "Python"`|
+| ![Qt][Qt] | `![Qt][Qt]` | `[Qt]: https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff "Qt"`|
+| ![QubesOS][QubesOS] | `![QubesOS][QubesOS]` | `[QubesOS]: https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white "QubesOS"`|
 | ![Quora][Quora] | `![Quora][Quora]` | `[Quora]: https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff "Quora"`|
+| ![ROS][ROS] | `![ROS][ROS]` | `[ROS]: https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white "ROS"`|
 | ![R][R] | `![R][R]` | `[R]: https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white "R"`|
 | ![Rails][Rails] | `![Rails][Rails]` | `[Rails]: https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white "Rails"`|
 | ![React Hook Form][React Hook Form] | `![React Hook Form][React Hook Form]` | `[React Hook Form]: https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff "React Hook Form"`|
@@ -389,8 +421,10 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Revolut][Revolut] | `![Revolut][Revolut]` | `[Revolut]: https://img.shields.io/badge/Revolut-191C1F?logo=revolut&logoColor=fff "Revolut"`|
 | ![Rider][Rider] | `![Rider][Rider]` | `[Rider]: https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff "Rider"`|
 | ![Ripple][Ripple] | `![Ripple][Ripple]` | `[Ripple]: https://img.shields.io/badge/Ripple-2288CB?logo=ripple&logoColor=white "Ripple"`|
+| ![Roboflow][Roboflow] | `![Roboflow][Roboflow]` | `[Roboflow]: https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff "Roboflow"`|
 | ![Rocky Linux][Rocky Linux] | `![Rocky Linux][Rocky Linux]` | `[Rocky Linux]: https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff "Rocky Linux"`|
 | ![Roku][Roku] | `![Roku][Roku]` | `[Roku]: https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white "Roku"`|
+| ![RubyGems][RubyGems] | `![RubyGems][RubyGems]` | `[RubyGems]: https://img.shields.io/badge/RubyGems-E9573F?logo=rubygems&logoColor=fff "RubyGems"`|
 | ![Ruby][Ruby] | `![Ruby][Ruby]` | `[Ruby]: https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white "Ruby"`|
 | ![Rust][Rust] | `![Rust][Rust]` | `[Rust]: https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white "Rust"`|
 | ![SAP][SAP] | `![SAP][SAP]` | `[SAP]: https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff "SAP"`|
@@ -410,18 +444,22 @@ The table below is automatically created. It contains the badges [from README.md
 | ![SketchUp][SketchUp] | `![SketchUp][SketchUp]` | `[SketchUp]: https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff "SketchUp"`|
 | ![Skillshare][Skillshare] | `![Skillshare][Skillshare]` | `[Skillshare]: https://img.shields.io/badge/Skillshare-04BD64?logo=skillshare&logoColor=000 "Skillshare"`|
 | ![Slack][Slack] | `![Slack][Slack]` | `[Slack]: https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff "Slack"`|
+| ![Slint][Slint] | `![Slint][Slint]` | `[Slint]: https://img.shields.io/badge/Slint-black?logo=Slint&logoColor=2379F4 "Slint"`|
 | ![Snapchat][Snapchat] | `![Snapchat][Snapchat]` | `[Snapchat]: https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white "Snapchat"`|
 | ![Snapcraft][Snapcraft] | `![Snapcraft][Snapcraft]` | `[Snapcraft]: https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff "Snapcraft"`|
 | ![Snowflake][Snowflake] | `![Snowflake][Snowflake]` | `[Snowflake]: https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff "Snowflake"`|
 | ![Snyk][Snyk] | `![Snyk][Snyk]` | `[Snyk]: https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff "Snyk"`|
+| ![Socket][Socket] | `![Socket][Socket]` | `[Socket]: https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white "Socket"`|
 | ![Solana][Solana] | `![Solana][Solana]` | `[Solana]: https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff "Solana"`|
 | ![Solid][Solid] | `![Solid][Solid]` | `[Solid]: https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff "Solid"`|
 | ![Solidity][Solidity] | `![Solidity][Solidity]` | `[Solidity]: https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff "Solidity"`|
 | ![SonarQube Cloud][SonarQube Cloud] | `![SonarQube Cloud][SonarQube Cloud]` | `[SonarQube Cloud]: https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff "SonarQube Cloud"`|
 | ![Soundcloud][Soundcloud] | `![Soundcloud][Soundcloud]` | `[Soundcloud]: https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white "Soundcloud"`|
+| ![SourceHut][SourceHut] | `![SourceHut][SourceHut]` | `[SourceHut]: https://img.shields.io/badge/SourceHut-000?logo=sourcehut&logoColor=fff "SourceHut"`|
 | ![Sphinx][Sphinx] | `![Sphinx][Sphinx]` | `[Sphinx]: https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff "Sphinx"`|
 | ![Spotify][Spotify] | `![Spotify][Spotify]` | `[Spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white "Spotify"`|
 | ![Spring Boot][Spring Boot] | `![Spring Boot][Spring Boot]` | `[Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff "Spring Boot"`|
+| ![Spring Security][Spring Security] | `![Spring Security][Spring Security]` | `[Spring Security]: https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff "Spring Security"`|
 | ![Square][Square] | `![Square][Square]` | `[Square]: https://img.shields.io/badge/Square-3E4348?logo=square&logoColor=fff "Square"`|
 | ![Squarespace][Squarespace] | `![Squarespace][Squarespace]` | `[Squarespace]: https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff "Squarespace"`|
 | ![Stack Exchange][Stack Exchange] | `![Stack Exchange][Stack Exchange]` | `[Stack Exchange]: https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff "Stack Exchange"`|
@@ -439,10 +477,12 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Supabase][Supabase] | `![Supabase][Supabase]` | `[Supabase]: https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff "Supabase"`|
 | ![SvelteKit][SvelteKit] | `![SvelteKit][SvelteKit]` | `[SvelteKit]: https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white "SvelteKit"`|
 | ![Svelte][Svelte] | `![Svelte][Svelte]` | `[Svelte]: https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white "Svelte"`|
-| ![Swagger][Swagger] | `![Swagger][Swagger]` | `[Swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000 "Swagger"`|
+| ![Swagger][Swagger] | `![Swagger][Swagger]` | `[Swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647 "Swagger"`|
 | ![Swift][Swift] | `![Swift][Swift]` | `[Swift]: https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white "Swift"`|
 | ![Symfony][Symfony] | `![Symfony][Symfony]` | `[Symfony]: https://img.shields.io/badge/Symfony-black?logo=symfony "Symfony"`|
+| ![TOML][TOML] | `![TOML][TOML]` | `[TOML]: https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff "TOML"`|
 | ![Tableau][Tableau] | `![Tableau][Tableau]` | `[Tableau]: https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff "Tableau"`|
+| ![TailsOS][TailsOS] | `![TailsOS][TailsOS]` | `[TailsOS]: https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white "TailsOS"`|
 | ![Tailwind CSS][Tailwind CSS] | `![Tailwind CSS][Tailwind CSS]` | `[Tailwind CSS]: https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white "Tailwind CSS"`|
 | ![Tauri][Tauri] | `![Tauri][Tauri]` | `[Tauri]: https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff "Tauri"`|
 | ![TeamSpeak][TeamSpeak] | `![TeamSpeak][TeamSpeak]` | `[TeamSpeak]: https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white "TeamSpeak"`|
@@ -454,6 +494,7 @@ The table below is automatically created. It contains the badges [from README.md
 | ![The Odin Project][The Odin Project] | `![The Odin Project][The Odin Project]` | `[The Odin Project]: https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff "The Odin Project"`|
 | ![Threads][Threads] | `![Threads][Threads]` | `[Threads]: https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white "Threads"`|
 | ![Three.js][Three.js] | `![Three.js][Three.js]` | `[Three.js]: https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff "Three.js"`|
+| ![Thunderbird][Thunderbird] | `![Thunderbird][Thunderbird]` | `[Thunderbird]: https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white "Thunderbird"`|
 | ![Tidal][Tidal] | `![Tidal][Tidal]` | `[Tidal]: https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white "Tidal"`|
 | ![TikTok][TikTok] | `![TikTok][TikTok]` | `[TikTok]: https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white "TikTok"`|
 | ![Topcoder][Topcoder] | `![Topcoder][Topcoder]` | `[Topcoder]: https://img.shields.io/badge/Topcoder-29A7DF?logo=topcoder&logoColor=fff "Topcoder"`|
@@ -495,14 +536,15 @@ The table below is automatically created. It contains the badges [from README.md
 | ![Vue.js][Vue.js] | `![Vue.js][Vue.js]` | `[Vue.js]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff "Vue.js"`|
 | ![VuePress][VuePress] | `![VuePress][VuePress]` | `[VuePress]: https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff "VuePress"`|
 | ![Vuetify][Vuetify] | `![Vuetify][Vuetify]` | `[Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff "Vuetify"`|
+| ![Vulkan][Vulkan] | `![Vulkan][Vulkan]` | `[Vulkan]: https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff "Vulkan"`|
 | ![W3Schools][W3Schools] | `![W3Schools][W3Schools]` | `[W3Schools]: https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff "W3Schools"`|
 | ![Wagmi][Wagmi] | `![Wagmi][Wagmi]` | `[Wagmi]: https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff "Wagmi"`|
+| ![Wakatime][Wakatime] | `![Wakatime][Wakatime]` | `[Wakatime]: https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white "Wakatime"`|
 | ![Warp][Warp] | `![Warp][Warp]` | `[Warp]: https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff "Warp"`|
 | ![WeChat][WeChat] | `![WeChat][WeChat]` | `[WeChat]: https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white "WeChat"`|
 | ![WebAssembly][WebAssembly] | `![WebAssembly][WebAssembly]` | `[WebAssembly]: https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff "WebAssembly"`|
+| ![WebGL][WebGL] | `![WebGL][WebGL]` | `[WebGL]: https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white "WebGL"`|
 | ![WebStorm][WebStorm] | `![WebStorm][WebStorm]` | `[WebStorm]: https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff "WebStorm"`|
-| ![Website][Website] | `![Website][Website]` | `[Website]: https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg "Website"`|
-| ![Website_alt][Website_alt] | `![Website_alt][Website_alt]` | `[Website_alt]: https://img.shields.io/website-up-down-green-red/http/shields.io.svg "Website_alt"`|
 | ![Wezterm][Wezterm] | `![Wezterm][Wezterm]` | `[Wezterm]: https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff "Wezterm"`|
 | ![WhatsApp][WhatsApp] | `![WhatsApp][WhatsApp]` | `[WhatsApp]: https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white "WhatsApp"`|
 | ![Windows][Windows] | `![Windows][Windows]` | `[Windows]: https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white "Windows"`|
@@ -531,7 +573,9 @@ The table below is automatically created. It contains the badges [from README.md
 | ![iOS][iOS] | `![iOS][iOS]` | `[iOS]: https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white "iOS"`|
 | ![iTerm2][iTerm2] | `![iTerm2][iTerm2]` | `[iTerm2]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff "iTerm2"`|
 | ![jQuery][jQuery] | `![jQuery][jQuery]` | `[jQuery]: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff "jQuery"`|
+| ![k6][k6] | `![k6][k6]` | `[k6]: https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff "k6"`|
 | ![macOS][macOS] | `![macOS][macOS]` | `[macOS]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0 "macOS"`|
+| ![nginx][nginx] | `![nginx][nginx]` | `[nginx]: https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff "nginx"`|
 | ![npm][npm] | `![npm][npm]` | `[npm]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff "npm"`|
 | ![pnpm][pnpm] | `![pnpm][pnpm]` | `[pnpm]: https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff "pnpm"`|
 | ![shadcn/ui][shadcn/ui] | `![shadcn/ui][shadcn/ui]` | `[shadcn/ui]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff "shadcn/ui"`|
@@ -544,6 +588,8 @@ The table below is automatically created. It contains the badges [from README.md
 [ARKit]: https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white "ARKit"
 [AWS Lambda]: https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white "AWS Lambda"
 [AWS]: https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white "AWS"
+[Academia]: https://img.shields.io/badge/Academia-41454A?logo=Academia&logoColor=white "Academia"
+[Affinity Studio]: https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black "Affinity Studio"
 [Alacritty]: https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff "Alacritty"
 [Alibaba Cloud]: https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white "Alibaba Cloud"
 [Alipay]: https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff "Alipay"
@@ -556,10 +602,12 @@ The table below is automatically created. It contains the badges [from README.md
 [Android]: https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white "Android"
 [Angular]: https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white "Angular"
 [AniList]: https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff "AniList"
+[Apache Airflow]: https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff "Apache Airflow"
 [Apache Spark]: https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff "Apache Spark"
 [Apollo GraphQL]: https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff "Apollo GraphQL"
 [App Store]: https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white "App Store"
 [AppVeyor]: https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff "AppVeyor"
+[Appium]: https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white "Appium"
 [Apple Music]: https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white "Apple Music"
 [Apple Pay]: https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff "Apple Pay"
 [Apple Podcasts]: https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white "Apple Podcasts"
@@ -573,6 +621,7 @@ The table below is automatically created. It contains the badges [from README.md
 [AssemblyScript]: https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff "AssemblyScript"
 [Astro]: https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff "Astro"
 [Audacity]: https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white "Audacity"
+[Auth.js]: https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=fff "Auth.js"
 [Azure DevOps]: https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff "Azure DevOps"
 [Azure Functions]: https://custom-icon-badges.demolab.com/badge/Azure%20Functions-0078D7?logo=azure-functions&logoColor=fff "Azure Functions"
 [Babel]: https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000 "Babel"
@@ -582,6 +631,7 @@ The table below is automatically created. It contains the badges [from README.md
 [Bash]: https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff "Bash"
 [Battle.net]: https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white "Battle.net"
 [BeReal]: https://img.shields.io/badge/BeReal-000?logo=bereal&logoColor=fff "BeReal"
+[Beeper]: https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff "Beeper"
 [Behance]: https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white "Behance"
 [Bilibili]: https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff "Bilibili"
 [Bitbucket Pipelines]: https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white "Bitbucket Pipelines"
@@ -596,6 +646,7 @@ The table below is automatically created. It contains the badges [from README.md
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff "Bootstrap"
 [Box]: https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff "Box"
 [Brave]: https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white "Brave"
+[Bruno]: https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black "Bruno"
 [Bun]: https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff "Bun"
 [Buy Me A Coffee]: https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee"
 [C#]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white "C#"
@@ -606,10 +657,12 @@ The table below is automatically created. It contains the badges [from README.md
 [Canva]: https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white "Canva"
 [Cardano]: https://img.shields.io/badge/Cardano-0E4D92?logo=cardano&logoColor=white "Cardano"
 [Cassandra]: https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white "Cassandra"
+[CentOS]: https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white "CentOS"
 [Chainlink]: https://img.shields.io/badge/Chainlink-2A5ADA?logo=chainlink&logoColor=white "Chainlink"
 [Chart.js]: https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff "Chart.js"
 [ChatGPT]: https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white "ChatGPT"
 [Chocolatey]: https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff "Chocolatey"
+[Chrome Web Store]: https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white "Chrome Web Store"
 [CircleCI]: https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff "CircleCI"
 [Claude]: https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff "Claude"
 [Clojure]: https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff "Clojure"
@@ -685,7 +738,8 @@ The table below is automatically created. It contains the badges [from README.md
 [Figma]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white "Figma"
 [Firebase Studio]: https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff "Firebase Studio"
 [Firebase]: https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white "Firebase"
-[Firefox]: https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white "Firefox"
+[Firefox Add-Ons]: https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white "Firefox Add-Ons"
+[Firefox]: https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white "Firefox"
 [Fiverr]: https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff "Fiverr"
 [Flask]: https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff "Flask"
 [Flathub]: https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff "Flathub"
@@ -702,11 +756,13 @@ The table below is automatically created. It contains the badges [from README.md
 [GNU IceCat]: https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff "GNU IceCat"
 [GNU]: https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white "GNU"
 [GOG.com]: https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff "GOG.com"
+[GTK]: https://img.shields.io/badge/GTK-73A0D0?logo=GTK&logoColor=fff "GTK"
 [GameMaker]: https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff "GameMaker"
 [Gatsby]: https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white "Gatsby"
 [GeeksForGeeks]: https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white "GeeksForGeeks"
 [Gentoo]: https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff "Gentoo"
 [Ghost]: https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow "Ghost"
+[Ghostty]: https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term "Ghostty"
 [Gimp]: https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white "Gimp"
 [GitBook]: https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff "GitBook"
 [GitHub Actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white "GitHub Actions"
@@ -735,8 +791,12 @@ The table below is automatically created. It contains the badges [from README.md
 [Google Gemini]: https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff "Google Gemini"
 [Google Pay]: https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff "Google Pay"
 [Google Play Store]: https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white "Google Play Store"
+[Google Scholar]: https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white "Google Scholar"
 [Google]: https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white "Google"
+[Gradio]: https://img.shields.io/badge/Gradio-F97316?logo=Gradio&logoColor=white "Gradio"
+[Grafana]: https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white "Grafana"
 [GraphQL]: https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff "GraphQL"
+[GrapheneOS]: https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white "GrapheneOS"
 [Gravatar]: https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff "Gravatar"
 [Gridsome]: https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=fff "Gridsome"
 [Guilded]: https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000 "Guilded"
@@ -758,6 +818,7 @@ The table below is automatically created. It contains the badges [from README.md
 [Humble Bundle]: https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white "Humble Bundle"
 [Hyper]: https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff "Hyper"
 [IMDb]: https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000 "IMDb"
+[Iced]: https://img.shields.io/badge/Iced-1A50FF?logo=Iced&logoColor=fff "Iced"
 [Indeed]: https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff "Indeed"
 [InfluxDB]: https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff "InfluxDB"
 [Inkscape]: https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white "Inkscape"
@@ -768,6 +829,7 @@ The table below is automatically created. It contains the badges [from README.md
 [Itch.io]: https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white "Itch.io"
 [JSON]: https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff "JSON"
 [JSR]: https://img.shields.io/badge/JSR-F7DF1E?logo=jsr&logoColor=000 "JSR"
+[JUnit5]: https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff "JUnit5"
 [Jasmine]: https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff "Jasmine"
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000 "JavaScript"
 [Java]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white "Java"
@@ -775,6 +837,7 @@ The table below is automatically created. It contains the badges [from README.md
 [Jenkins]: https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white "Jenkins"
 [Jest]: https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff "Jest"
 [Jira]: https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff "Jira"
+[Jupyter]: https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter "Jupyter"
 [Just Eat]: https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff "Just Eat"
 [KDE Plasma]: https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff "KDE Plasma"
 [Kaggle]: https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff "Kaggle"
@@ -783,18 +846,20 @@ The table below is automatically created. It contains the badges [from README.md
 [Khan Academy]: https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff "Khan Academy"
 [Kick]: https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff "Kick"
 [Klarna]: https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000 "Klarna"
-[Ko-Fi]: https://img.shields.io/badge/Ko--fi-F16061?&logo=ko-fi&logoColor=white "Ko-Fi"
+[Ko-fi]: https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white "Ko-fi"
 [Kong]: https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white "Kong"
 [Kotlin]: https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white "Kotlin"
 [Krita]: https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B "Krita"
 [Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff "Kubernetes"
 [LINE]: https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff "LINE"
+[LaTeX]: https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff "LaTeX"
 [LangChain]: https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white "LangChain"
 [Laravel]: https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white "Laravel"
 [LastFM]: https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white "LastFM"
 [LeetCode]: https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06 "LeetCode"
 [Less]: https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff "Less"
 [Liberapay]: https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black "Liberapay"
+[LineageOS]: https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff "LineageOS"
 [Linear]: https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff "Linear"
 [LinkedIn Learning]: https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff "LinkedIn Learning"
 [LinkedIn]: https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff "LinkedIn"
@@ -805,6 +870,7 @@ The table below is automatically created. It contains the badges [from README.md
 [Lua]: https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white "Lua"
 [MDN Web Docs]: https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff "MDN Web Docs"
 [MDX]: https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff "MDX"
+[MLflow]: https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black "MLflow"
 [MX Linux]: https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff "MX Linux"
 [Manjaro]: https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff "Manjaro"
 [MariaDB]: https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white "MariaDB"
@@ -824,10 +890,10 @@ The table below is automatically created. It contains the badges [from README.md
 [Microsoft Azure]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white "Microsoft Azure"
 [Microsoft Edge]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white "Microsoft Edge"
 [Microsoft SQL Server]: https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white "Microsoft SQL Server"
+[MinIO]: https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff "MinIO"
 [Miro]: https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff "Miro"
 [Mistral AI]: https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff "Mistral AI"
-[MkDocs]: https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff "MkDocs"
-[MkDocs_alt]: https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff "MkDocs_alt"
+[MkDocs]: https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff "MkDocs"
 [Mocha]: https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff "Mocha"
 [Monero]: https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff "Monero"
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white "MongoDB"
@@ -841,29 +907,32 @@ The table below is automatically created. It contains the badges [from README.md
 [Netflix]: https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white "Netflix"
 [Netlify]: https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7 "Netlify"
 [Next.js]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white "Next.js"
-[Nim]: https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white "Nim"
+[Nim]: https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=000 "Nim"
 [Nintendo eShop]: https://custom-icon-badges.demolab.com/badge/Nintendo%20eShop-FF7D00?logo=nintendo&logoColor=fff "Nintendo eShop"
 [NixOS]: https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff "NixOS"
 [Nix]: https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white "Nix"
 [Nix_alt]: https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff "Nix_alt"
 [Nobara Linux]: https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff "Nobara Linux"
-[NodeJS]: https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white "NodeJS"
+[Node.js]: https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white "Node.js"
 [Notepad++]: https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black "Notepad++"
 [Notion]: https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff "Notion"
 [NuGet]: https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff "NuGet"
 [NumPy]: https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff "NumPy"
 [Nuxt]: https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82 "Nuxt"
 [OCaml]: https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff "OCaml"
+[ONNX]: https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white "ONNX"
 [Objective-C]: https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white "Objective-C"
 [Obsidian]: https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white "Obsidian"
 [Octopus Deploy]: https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white "Octopus Deploy"
 [Oculus]: https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white "Oculus"
-[Odin]: https://custom-icon-badges.demolab.com/badge/Odin-1E5184?logo=odinlang "Odin"
+[Odin]: https://img.shields.io/badge/Odin-3882D2?logo=odin&logoColor=fff "Odin"
 [Odoo]: https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff "Odoo"
 [Ollama]: https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000 "Ollama"
 [Open Collective]: https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=white "Open Collective"
 [OpenAPI]: https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white "OpenAPI"
+[OpenBSD]: https://img.shields.io/badge/OpenBSD-F2CA30?logo=openbsd&logoColor=000 "OpenBSD"
 [OpenCritic]: https://img.shields.io/badge/OpenCritic-FC3E04?logo=opencritic&logoColor=fff "OpenCritic"
+[OpenGL]: https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff "OpenGL"
 [Opera GX]: https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff "Opera GX"
 [Opera]: https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white "Opera"
 [Oracle Cloud]: https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white "Oracle Cloud"
@@ -872,7 +941,7 @@ The table below is automatically created. It contains the badges [from README.md
 [PHP]: https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white "PHP"
 [Pandas]: https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff "Pandas"
 [Pandora]: https://img.shields.io/badge/Pandora-3668FF?logo=pandora "Pandora"
-[Patreon]: https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white "Patreon"
+[Patreon]: https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white "Patreon"
 [PayPal]: https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff "PayPal"
 [Payoneer]: https://img.shields.io/badge/Payoneer-FF4800?logo=payoneer&logoColor=fff "Payoneer"
 [Pelican]: https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff "Pelican"
@@ -891,18 +960,25 @@ The table below is automatically created. It contains the badges [from README.md
 [Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white "Postgres"
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white "Postman"
 [Power BI]: https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff "Power BI"
+[PowerShell]: https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff "PowerShell"
 [Preact]: https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff "Preact"
 [Prime Video]: https://custom-icon-badges.demolab.com/badge/Prime%20Video-00A8E1?logo=prime-video&logoColor=white "Prime Video"
 [Prisma]: https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white "Prisma"
 [Product Hunt]: https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff "Product Hunt"
+[Prometheus]: https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white "Prometheus"
 [Proton Drive]: https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white "Proton Drive"
 [Proton Mail]: https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff "Proton Mail"
 [PyCharm]: https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff "PyCharm"
 [PyPI]: https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff "PyPI"
 [PyTorch]: https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white "PyTorch"
+[Pydantic]: https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white "Pydantic"
+[Pytest]: https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000 "Pytest"
 [Python IDLE]: https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff "Python IDLE"
 [Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff "Python"
+[Qt]: https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff "Qt"
+[QubesOS]: https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white "QubesOS"
 [Quora]: https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff "Quora"
+[ROS]: https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white "ROS"
 [R]: https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white "R"
 [Rails]: https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white "Rails"
 [React Hook Form]: https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff "React Hook Form"
@@ -923,8 +999,10 @@ The table below is automatically created. It contains the badges [from README.md
 [Revolut]: https://img.shields.io/badge/Revolut-191C1F?logo=revolut&logoColor=fff "Revolut"
 [Rider]: https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff "Rider"
 [Ripple]: https://img.shields.io/badge/Ripple-2288CB?logo=ripple&logoColor=white "Ripple"
+[Roboflow]: https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff "Roboflow"
 [Rocky Linux]: https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff "Rocky Linux"
 [Roku]: https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white "Roku"
+[RubyGems]: https://img.shields.io/badge/RubyGems-E9573F?logo=rubygems&logoColor=fff "RubyGems"
 [Ruby]: https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white "Ruby"
 [Rust]: https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white "Rust"
 [SAP]: https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff "SAP"
@@ -944,18 +1022,22 @@ The table below is automatically created. It contains the badges [from README.md
 [SketchUp]: https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff "SketchUp"
 [Skillshare]: https://img.shields.io/badge/Skillshare-04BD64?logo=skillshare&logoColor=000 "Skillshare"
 [Slack]: https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff "Slack"
+[Slint]: https://img.shields.io/badge/Slint-black?logo=Slint&logoColor=2379F4 "Slint"
 [Snapchat]: https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white "Snapchat"
 [Snapcraft]: https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff "Snapcraft"
 [Snowflake]: https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff "Snowflake"
 [Snyk]: https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff "Snyk"
+[Socket]: https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white "Socket"
 [Solana]: https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff "Solana"
 [Solid]: https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff "Solid"
 [Solidity]: https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff "Solidity"
 [SonarQube Cloud]: https://img.shields.io/badge/SonarQube%20Cloud-126ED3?logo=sonarqubecloud&logoColor=fff "SonarQube Cloud"
 [Soundcloud]: https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white "Soundcloud"
+[SourceHut]: https://img.shields.io/badge/SourceHut-000?logo=sourcehut&logoColor=fff "SourceHut"
 [Sphinx]: https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff "Sphinx"
 [Spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white "Spotify"
 [Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff "Spring Boot"
+[Spring Security]: https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff "Spring Security"
 [Square]: https://img.shields.io/badge/Square-3E4348?logo=square&logoColor=fff "Square"
 [Squarespace]: https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff "Squarespace"
 [Stack Exchange]: https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff "Stack Exchange"
@@ -973,10 +1055,12 @@ The table below is automatically created. It contains the badges [from README.md
 [Supabase]: https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff "Supabase"
 [SvelteKit]: https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white "SvelteKit"
 [Svelte]: https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white "Svelte"
-[Swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000 "Swagger"
+[Swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647 "Swagger"
 [Swift]: https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white "Swift"
 [Symfony]: https://img.shields.io/badge/Symfony-black?logo=symfony "Symfony"
+[TOML]: https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff "TOML"
 [Tableau]: https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff "Tableau"
+[TailsOS]: https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white "TailsOS"
 [Tailwind CSS]: https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white "Tailwind CSS"
 [Tauri]: https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff "Tauri"
 [TeamSpeak]: https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white "TeamSpeak"
@@ -988,6 +1072,7 @@ The table below is automatically created. It contains the badges [from README.md
 [The Odin Project]: https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff "The Odin Project"
 [Threads]: https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white "Threads"
 [Three.js]: https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff "Three.js"
+[Thunderbird]: https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white "Thunderbird"
 [Tidal]: https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white "Tidal"
 [TikTok]: https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white "TikTok"
 [Topcoder]: https://img.shields.io/badge/Topcoder-29A7DF?logo=topcoder&logoColor=fff "Topcoder"
@@ -1029,14 +1114,15 @@ The table below is automatically created. It contains the badges [from README.md
 [Vue.js]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff "Vue.js"
 [VuePress]: https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff "VuePress"
 [Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff "Vuetify"
+[Vulkan]: https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff "Vulkan"
 [W3Schools]: https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff "W3Schools"
 [Wagmi]: https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff "Wagmi"
+[Wakatime]: https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white "Wakatime"
 [Warp]: https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff "Warp"
 [WeChat]: https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white "WeChat"
 [WebAssembly]: https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff "WebAssembly"
+[WebGL]: https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white "WebGL"
 [WebStorm]: https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff "WebStorm"
-[Website]: https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg "Website"
-[Website_alt]: https://img.shields.io/website-up-down-green-red/http/shields.io.svg "Website_alt"
 [Wezterm]: https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff "Wezterm"
 [WhatsApp]: https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white "WhatsApp"
 [Windows]: https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white "Windows"
@@ -1065,7 +1151,9 @@ The table below is automatically created. It contains the badges [from README.md
 [iOS]: https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white "iOS"
 [iTerm2]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff "iTerm2"
 [jQuery]: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff "jQuery"
+[k6]: https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff "k6"
 [macOS]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0 "macOS"
+[nginx]: https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff "nginx"
 [npm]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff "npm"
 [pnpm]: https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff "pnpm"
 [shadcn/ui]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff "shadcn/ui"
