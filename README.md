@@ -27,6 +27,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Funding](#-funding)
 * [Framework](#%EF%B8%8F-framework)
 * [Game Engine](#%EF%B8%8F-game-engine)
+* [Gaming Platform](#-gaming-platform)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
 * [Monitoring](#-monitoring)
@@ -35,7 +36,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Package Manager](#-package-manager)
 * [Payment](#-payment)
 * [Process Manager](#%EF%B8%8F-process-manager)
-* [Programming Language](#-programming-language)
+* [Programming Language](#%E2%80%8D-programming-language)
 * [Review](#-review)
 * [Search Engine](#-search-engine)
 * [Social Media](#-social-media)
@@ -93,7 +94,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) | `[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)` |
 | [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) | `[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)` |
-| [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#) | `[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)` |
+| [![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#) | `[![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)` |
 | [![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#) | `[![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#)` |
 | [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) | `[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)` |
 | [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#) | `[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)` |
@@ -143,6 +144,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)  | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)` |
 | [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) | `[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)` |
 | [![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#) | `[![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#)` |
+| [![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser)](#) | `[![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser)](#)` |
 | [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#) | `[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)` |
 | [![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#) | `[![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#)` |
 | [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#) | `[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)` |
@@ -274,7 +276,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#) | `[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)` |
 | [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) | `[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)` |
 | [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) | `[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)` |
-| [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#) | `![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)` |
+| [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#) | `[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)` |
 | [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#) | `[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)` |
 | [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#) | `[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)` |
 | [![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#) | `[![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)` |
@@ -635,20 +637,35 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)](#) | `[![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)](#)` |
+| [![Bitsy](https://img.shields.io/badge/Bitsy-6767B2?logo=Bitsy&logoColor=FFF)](#) | `[![Bitsy](https://img.shields.io/badge/Bitsy-6767B2?logo=Bitsy&logoColor=FFF)](#)` |
+| [![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000)](#) | `[![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000)](#)` |
 | [![CryEngine](https://img.shields.io/badge/CryEngine-000?logo=cryengine&logoColor=fff)](#) | `[![CryEngine](https://img.shields.io/badge/CryEngine-000?logo=cryengine&logoColor=fff)](#)` |
 | [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#) | `[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)` |
 | [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) | `[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)` |
 | [![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff)](#) | `[![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff)](#)` |
-| [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) | `[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)` |
 | [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) | `[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)` |
+| [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) | `[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)` |
 
 <div align="right">
 
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🎮 Gaming Storefront
+### 🎮 Gaming Platform
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Nintendo](https://custom-icon-badges.demolab.com/badge/Nintendo-E60012?logo=nintendo&logoColor=fff)](#) | `[![Nintendo](https://custom-icon-badges.demolab.com/badge/Nintendo-E60012?logo=nintendo&logoColor=fff)](#)` |
+| [![PlayStation](https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=fff)](#) | `[![PlayStation](https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=fff)](#)` |
+| [![Xbox](https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff)](#) | `[![Xbox](https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff)](#)` |
+
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### 🛍️ Gaming Storefront
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -712,6 +729,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) | `[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)` |
 | [![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#) | `[![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#)` |
 | [![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#) | `[![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#)` |
+| [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#) | `[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)` |
 | [![CentOS](https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white)](#) | `[![CentOS](https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white)](#)` |
 | [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) | `[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)` |
 | [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) | `[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)` |
@@ -791,6 +809,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#) | `[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)` |
 | [![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#) | `[![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#)` |
+| [![Discover](https://img.shields.io/badge/Discover-FF6000?logo=discover&logoColor=fff&style=flat)](#) | `[![Discover](https://img.shields.io/badge/Discover-FF6000?logo=discover&logoColor=fff&style=flat)](#)` |
 | [![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#) | `[![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#)` |
 | [![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000)](#) | `[![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000)](#)` |
 | [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#) | `[![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#)` |
@@ -938,6 +957,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#) | `[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#)` |
 | [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#) | `[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)` |
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#)` |
+| [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](#) | `[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](#)` |
 | [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
 | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#) | `[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)` |
 | [![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#)` |
@@ -948,6 +968,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#) | `[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#)` |
 | [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff)](#) | `[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff)](#)` |
 | [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](#) | `[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](#)` |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
 | [![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff)](#) | `[![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff)](#)` |
 | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) | `[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)` |
@@ -1116,13 +1137,13 @@ See [docs/REFERENCE_STYLE.md](./docs/REFERENCE_STYLE.md) for the above badges in
 
 ## CLI
 
-If you want to find badges from directly within your terminal, check out [mdbadges-cli](https://github.com/inttter/mdbadges-cli), which includes all the badges listed under this repository, and also offers various commands, like creating custom badges!
+If you want to find badges from directly within your terminal, check out [mdbadges-cli](https://github.com/inttter/mdbadges-cli), which includes all the badges listed under this repository, and also offers various commands, like creating your own badges!
 
 ## Contributing
 
-If you would like to contribute in any way, such as adding a badge or category, please read the [contributing guidelines](/CONTRIBUTING.md) and then make a contribution.
+If you would like to contribute in any way, such as adding a badge or category, please read the [contributing guidelines](/CONTRIBUTING.md) and then open a pull request.
 
-Here are some people who have contributed to md-badges so far:
+Thank you to everyone who has contributed! Here are the people who have helped so far:
 
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
